@@ -1,4 +1,4 @@
-# ✨ Cloud Skill Challenge — Season 1
+# ✨ Cloud Skill Challenge
 
 Organized by **Microsoft Student Club (MSC–PRPCEM)**  
 Level up your cloud journey with hands-on learning, badges, and exciting swags! ☁️⚡
